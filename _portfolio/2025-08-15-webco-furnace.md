@@ -12,4 +12,4 @@ During my summer internship at Webco Manufacturing, I worked under the guidance 
 * **Component Installation:** Integrated Variable Frequency Drives (VFDs), PLCs, and safety relays into electrical enclosures.
 * **Quality Control:** Assisted in continuity testing and power-up sequences to ensure panel reliability before deployment.
 
-![Webco Panel](/images/webco-panel.png)
+![Webco Panel](/images/Finished_Panel_Interior.png)
