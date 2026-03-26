@@ -8,8 +8,8 @@ header:
 During my summer internship at Webco Manufacturing, I worked under the guidance of senior engineers to assemble and wire industrial control systems for heavy-duty manufacturing furnaces.
 
 **Core Tasks:**
-* **Panel Wiring:** Executed point-to-point wiring for industrial control panels based on engineering blueprints.
+* **Panel Wiring:** Executed point-to-point wiring for industrial control panels based on engineering schematics.
 * **Component Installation:** Integrated Variable Frequency Drives (VFDs), PLCs, and safety relays into electrical enclosures.
-* **Quality Control:** Assisted in continuity testing and power-up sequences to ensure panel reliability before deployment.
+* **Quality Control:** Assisted in continuity testing to ensure panel reliability before deployment.
 
 ![Webco Panel](/images/Finished_Panel_Interior.png)
