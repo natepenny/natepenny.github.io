@@ -1,39 +1,45 @@
-# Basic Site Settings
-locale                   : "en-US"
-site_theme               : "default"
-title                    : "Nathan Pennybaker"
-title_separator          : "-"
-name                     : "Nathan Pennybaker"
-description              : "Electrical Engineering Portfolio"
-url                      : "https://natepenny.github.io"
-baseurl                  : "" 
-repository               : "natepenny/natepenny.github.io"
+title: "Nathan Pennybaker"
+name: "Nathan Pennybaker"
+description: "Electrical Engineering Portfolio"
+url: "https://natepenny.github.io"
+baseurl: ""
+repository: "natepenny/natepenny.github.io"
 
-# Site Author
 author:
-  avatar           : "profile.jpg"
-  name             : "Nathan Pennybaker"
-  bio              : "Electrical Engineering student at OU specializing in power systems and aerospace avionics."
-  location         : "Norman, OK"
-  employer         : "University of Oklahoma"
-  email            : "napenny@cox.net" 
-  github           : "natepenny"
-  linkedin         : "nathanpennybaker"
+  avatar: "profile.jpg"
+  name: "Nathan Pennybaker"
+  bio: "Electrical Engineering student at OU."
+  location: "Norman, OK"
+  employer: "University of Oklahoma"
+  github: "natepenny"
+  linkedin: "nathanpennybaker"
 
-# Disable the "Academic" sections
+include:
+  - _pages
+  - files
+exclude:
+  - Gemfile
+  - LICENSE
+  - README
+  - _teaching
+  - _publications
+  - _talks
+
 collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
 
-# Reading Files
-include:
-  - .htaccess
-  - _pages
-exclude:
-  - _teaching
-  - _publications
-  - _talks
-  - Gemfile
-  - LICENSE
-  - README
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
