@@ -13,4 +13,4 @@ Designed and prototyped a specialized RC controller for a bulldozer, focusing on
 * **Electronics:** Performed all soldering and wiring for a six-button layout, ensuring modular internal cable management for easy repair.
 * **Human Factors:** Integrated large, color-coded buttons and high-contrast labels to support users with limited fine motor control or visual impairments.
 
-![RC Controller](/images/rc-controller.png)
+![RC Controller](/images/rc-controller.jpg)
