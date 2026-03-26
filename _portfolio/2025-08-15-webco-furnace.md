@@ -1,15 +1,15 @@
 ---
-title: "Industrial Furnace Control System Modernization"
-excerpt: "Electrical Engineering Intern at Webco Industries focused on automated door control and schematic recreation."
-collection: portfolio
+title: "Industrial Control Systems Internship"
+excerpt: "Wiring and troubleshooting industrial control panels for manufacturing furnaces."
+header:
+  teaser: /images/webco-panel.png
 ---
 
-**Project Overview:**
-During my internship at Webco Industries, I was responsible for the wiring, testing, and documentation of industrial control panels used in furnace door automation.
+During my summer internship at Webco Manufacturing, I worked under the guidance of senior engineers to assemble and wire industrial control systems for heavy-duty manufacturing furnaces.
 
-**Key Contributions:**
-* **Panel Assembly:** Wired and tested two full control panels featuring **VFDs (Variable Frequency Drives)**, relays, and terminal blocks.
-* **Schematic Design:** Recreated complex electrical schematics using **AutoCAD Electrical** to ensure accurate long-term maintenance documentation.
-* **Testing:** Performed electrical troubleshooting and point-to-point continuity testing to validate panel logic before floor deployment.
+**Core Tasks:**
+* **Panel Wiring:** Executed point-to-point wiring for industrial control panels based on engineering blueprints.
+* **Component Installation:** Integrated Variable Frequency Drives (VFDs), PLCs, and safety relays into electrical enclosures.
+* **Quality Control:** Assisted in continuity testing and power-up sequences to ensure panel reliability before deployment.
 
-![Webco Panel](/images/Finished_Panel_Interior.png)
+![Webco Panel](/images/webco-panel.png)
